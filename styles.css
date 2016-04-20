@@ -1,0 +1,8 @@
+/* add your CSS here */
+ul { margin: 0 0 0 10px; padding: 0; }
+ul li { list-style: none; font-style: italic; margin: 0 0 5px 0; }
+ul li > span { border-bottom: 1px solid #ccc; }
+div.card { border: 1px solid #900000; padding: 10px; width: 300px; }
+img { width: 300px; }
+p { font-style: italic; border: 1px solid #ccc; padding: 5px; }
+h3 { font-size: 30px; padding: 0; margin: 0 0 10px 0; border-bottom: 1px solid #ccc; }
